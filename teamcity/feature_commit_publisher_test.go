@@ -3,8 +3,8 @@ package teamcity_test
 import (
 	"testing"
 
-	"github.com/cvbarros/go-teamcity/teamcity"
 	"github.com/stretchr/testify/assert"
+	"github.com/yext/go-teamcity/teamcity"
 )
 
 func TestFeatureCommitPublisher_UnmarshallProperties_Github(t *testing.T) {

@@ -25,3 +25,9 @@ integration_tests/log_dir/
 
 #OSX
 .DS_Store
+
+#Bazel
+bazel-bin
+bazel-go-teamcity
+bazel-out
+bazel-testlogs

@@ -3,8 +3,8 @@ package teamcity_test
 import (
 	"testing"
 
-	teamcity "github.com/cvbarros/go-teamcity/teamcity"
 	"github.com/stretchr/testify/assert"
+	teamcity "github.com/yext/go-teamcity/teamcity"
 )
 
 // Ensure serialization/deserialization works as expected.

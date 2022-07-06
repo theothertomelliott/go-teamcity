@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/cvbarros/go-teamcity/teamcity"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/yext/go-teamcity/teamcity"
 )
 
 func TestProject_Create(t *testing.T) {

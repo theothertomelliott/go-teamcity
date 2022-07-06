@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cvbarros/go-teamcity/teamcity"
 	"github.com/stretchr/testify/suite"
+	"github.com/yext/go-teamcity/teamcity"
 )
 
 type SuiteBuildTypeTrigger struct {

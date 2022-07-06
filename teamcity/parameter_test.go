@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/cvbarros/go-teamcity/teamcity"
 	"github.com/stretchr/testify/require"
+	"github.com/yext/go-teamcity/teamcity"
 )
 
 func Test_ParameterConfiguration_Serialization(t *testing.T) {

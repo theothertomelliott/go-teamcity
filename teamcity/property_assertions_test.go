@@ -3,9 +3,9 @@ package teamcity_test
 import (
 	"testing"
 
-	"github.com/cvbarros/go-teamcity/teamcity"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/yext/go-teamcity/teamcity"
 )
 
 type PropertyAssertions struct {
